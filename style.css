@@ -33,7 +33,7 @@ h1{
     font-weight: 600;
    
 }
-/* End Part start*/
+
 
 .bannar{
     background-image: url(images/bannar.png);
@@ -87,4 +87,26 @@ border-radius: 20px;
 
 .divall{
     padding: 0% 10%;
+}
+
+.eat-foot{
+    background-color: black;
+}
+
+#foot-full{
+   
+   padding: 50px;
+   text-align: center;
+}
+
+
+
+.orange{
+    color: orange;
+}
+.gray{
+    color: rgb(180, 178, 178);
+}
+.line{
+    color: white;
 }
